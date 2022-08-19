@@ -6,7 +6,7 @@ Por otro lado, también aprendimos a hacer diagramas de flujo basándonos en un 
 ### Códigos aprendidos
 **Sub + Nombre del programa** -> Le da un inicio y un fin al programa.  
 **MsgBox** -> Muestra un mensaje en pantalla.    
-**a** = (valor alfanumerico) -> Asigna un valor a la variable "a".    
+**a** = (valor alfanúmerico) -> Asigna un valor a la variable "a".    
 ### Ejemplo
 Sub Sena()  
     a = 12  
