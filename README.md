@@ -2,7 +2,7 @@
 ### Resumen de la clase
 Aprendimos a crear un programa muy básico con el lenguaje Visual Basic Excel. Entramos en Office Excel y desde allí, activamos la opccion de Programador en archivos, despues en la barra de herramientas podremos encontrar un apartado con el termino "Programador", desde alli podemos buscar la opccion Visual Basic.   
 
-Por otro lado, también aprendimos a hacer diagramas de flujo basándonos en un algoritmo (el cual simplemente es el programa redactado en un lenguaje de programación).  
+Por otro lado, también aprendimos a hacer diagramas de flujo basándonos en un algoritmo (el cual simplemente es el programa redactado con las órdenes y funciones que el programa debe cumplir).  
 ### Códigos aprendidos
 **Sub + Nombre del programa** -> Le da un inicio y un fin al programa.  
 **MsgBox** -> Muestra un mensaje en pantalla.    
