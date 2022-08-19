@@ -15,4 +15,4 @@ Sub Sena()
     MsgBox "" + b + " tiene " + a  
 End Sub
 
-**Este programa le asigna valores a las variables 12, "Andres" y "Luis" para después mostrar el mensaje "Andres tiene 12" en pantalla. A continuación, le da fin al programa**
+**Este programa le asigna valores a las variables 12, "Andres" y "Luis", consecuentemente, mostrar el mensaje "Andres tiene 12" en pantalla. A continuación, le da fin al programa**
