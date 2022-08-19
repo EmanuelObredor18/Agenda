@@ -6,7 +6,7 @@ Por otro lado, también a
 ### Códigos aprendidos
 **Sub + Nombre del programa** -> Le da un inicio y un fin al programa.  
 **MsgBox** -> Muestra un mensaje en pantalla.    
-**a** = (valor alfanumerico) -> asignar un valor a la variable "a".    
+**a** = (valor alfanumerico) -> Asigna un valor a la variable "a".    
 ### Ejemplo
 Sub Sena()  
     a = 12  
