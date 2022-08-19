@@ -12,6 +12,6 @@ Sub Sena()
     a = 12  
     b = "Andres"  
     c = "Luis"  
-    MsgBox "" + b + " tiene " + a 
+    MsgBox "" + b + " tiene " + a  
 End Sub  
 Este programa le asigna valores a las variables 12, "Andres" y "Luis" para despues mostrar el mensaje "Andres tiene 12" en pantalla.
