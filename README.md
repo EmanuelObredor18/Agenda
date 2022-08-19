@@ -8,7 +8,7 @@ Por otro lado, también a
 **MsgBox** -> Muestra un mensaje en pantalla.    
 **a** = (valor alfanumerico) -> asignar un valor a la variable "a".    
 ### Ejemplo
-Sub Sena()
+Sub Sena()  
     a = 12  
     b = "Andres"  
     c = "Luis"  
