@@ -1,3 +1,3 @@
 ### Comandos  
-**MsgBox** -> Muestra un mensaje en pantalla.
+**MsgBox** -> Muestra un mensaje en pantalla.  
 **InputBox** -> Abre un cuadro de diálogo.
