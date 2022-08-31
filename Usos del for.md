@@ -1,3 +1,6 @@
+´´´´
+
+
 Sub Recaudo()
     rTotal = 0
     aportados = 0
@@ -23,3 +26,6 @@ Sub Recaudo()
     MsgBox ("Valor total aportado " & rTotal)
     MsgBox ("Promedio del aporte: " & promedio)
 End Sub
+
+
+´´´´
