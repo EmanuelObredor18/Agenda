@@ -37,5 +37,6 @@
     MsgBox "El numero de estudiantes que aportaron es: " & "(" & aportaron & ")" & " Estudiantes"
     MsgBox "El numero de estudiantes que no aportaron es: " & "(" & no_aporte & ")" & " Estudiantes"
     MsgBox "Los estudiantes que aportaron una cantidad superior a $10.000: " & "(" & aportaron_10k & ")" & " Estudiantes"
+   End Sub
     ``` 
         
