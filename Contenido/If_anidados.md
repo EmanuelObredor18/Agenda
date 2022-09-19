@@ -1,6 +1,6 @@
-  Attribute VB_Name = "Módulo1"  
-  Sub ImpuestoEmpresa()  
-    
+# Ejercicio con 'if' anidados
+```  
+Sub ImpuestoEmpresa()  
     ingreso = InputBox("¿De cuánto es el ingreso anual de su empresa?")  
     
     If ingreso >= 10000001 Then  
@@ -35,10 +35,11 @@
             Else  
               If ingreso >= 0 Then  
               MsgBox ("Su empresa no debe pagar impuestos.")  
-              End If  
             End If  
           End If  
         End If  
       End If  
     End If  
-  End Sub
+  End If  
+End Sub
+```  
